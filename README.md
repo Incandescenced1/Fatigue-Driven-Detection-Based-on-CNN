@@ -80,7 +80,3 @@ Onedrive：
 ## 关于咨询
 如果issue和Discussion不能满足您的需要，随时可以发邮件到我的邮箱(PengfeiM@outlook.com)提出您的问题。
 当然，不管是issue/discussion还是邮件，我都会尽快回复（issue和discussion有更新github会给我发邮件，我也会时常检查github手机端APP）。
-
-**最后，如果您想要支持我的工作，请扫描下面的二维码**
-![我的支付宝](https://user-images.githubusercontent.com/45191163/116050673-55db0400-a6aa-11eb-9588-cc0546e89f70.jpg)
-**谢谢您对我的支持和帮助**
